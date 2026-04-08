@@ -11,7 +11,7 @@
 | [2020-李录-诺亚访谈](./2020-李录-诺亚访谈/) | 中文字幕 | https://www.youtube.com/watch?v=dw_nIxG1UnE |
 | [2021-李录-哥伦比亚中国商业会议炉边对谈](./2021-李录-哥伦比亚中国商业会议炉边对谈/) | 精校文稿、英文/中文/双语字幕 | https://www.youtube.com/watch?v=FiHrWy2jGbA |
 | [2024-李录-北大全球价值投资与时代](./2024-李录-北大全球价值投资与时代/) | 精校文稿 | https://www.bilibili.com/video/BV1spcHehEH7 |
-| [2026-李录-比亚迪23年访谈](./2026-李录-比亚迪23年访谈/) | 精校文稿 | https://www.bilibili.com/video/BV1ZF93B8E95?p=1<br>https://www.bilibili.com/video/BV1ZF93B8E95?p=2 |
+| [2026-李录-持有比亚迪23年访谈](./2026-李录-持有比亚迪23年访谈/) | 精校文稿 | https://www.bilibili.com/video/BV1ZF93B8E95?p=1<br>https://www.bilibili.com/video/BV1ZF93B8E95?p=2 |
 | [访谈-李录-红周刊对话（英文字幕）](./访谈-李录-红周刊对话（英文字幕）/) | 转录文稿、中文/双语字幕 | https://www.youtube.com/watch?v=cQsp5cHeBRA |
 | [文字记录-李录-世界秩序转移与中国](./文字记录-李录-世界秩序转移与中国/) | 转录文稿、中文字幕 | https://www.youtube.com/watch?v=AglYFBaCb6k |
 
